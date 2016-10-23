@@ -1,1 +1,2 @@
-# streamsets_cn
+StreamSets Data Collector in Chinese Version
+-----------
